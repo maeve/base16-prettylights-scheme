@@ -1,4 +1,4 @@
-scheme: "GitHub Dark"
+scheme: "Prettylights Dark"
 author: "Maeve Revels (https://github.com/maeve)"
 base00: "0d1117" # color-bg-primary
 base01: "0d1117" # color-bg-secondary
@@ -8,10 +8,10 @@ base04: "8b949e" # color-text-secondary
 base05: "c9d1d9" # color-text-primary
 base06: "f0f6fc" # color-text-white
 base07: "ffffff"
-base08: "f85149" # color-diff-deletion-text
+base08: "7ee787" # color-prettylights-syntax-entity-tag
 base09: "79c0ff" # color-prettylights-syntax-constant
 base0A: "ffa657" # color-prettylights-syntax-variable
-base0B: "7ee787" # color-prettylights-syntax-string-regexp
+base0B: "a5d6ff" # color-prettylights-syntax-string
 base0C: "a5d6ff" # color-prettylights-syntax-string
 base0D: "d2a8ff" # color-prettylights-syntax-entity
 base0E: "ff7b72" # color-prettylights-syntax-keyword
