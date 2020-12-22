@@ -3,7 +3,7 @@ author: "Maeve Revels (https://github.com/maeve)"
 base00: "0d1117" # color-bg-primary
 base01: "0d1117" # color-bg-secondary
 base02: "161b22" # color-bg-tertiary
-base03: "21262d" # color-bg-overlay
+base03: "8b949e" # color-prettylights-syntax-comment
 base04: "8b949e" # color-text-secondary
 base05: "c9d1d9" # color-text-primary
 base06: "f0f6fc" # color-text-white
@@ -15,4 +15,4 @@ base0B: "a5d6ff" # color-prettylights-syntax-string
 base0C: "a5d6ff" # color-prettylights-syntax-string
 base0D: "d2a8ff" # color-prettylights-syntax-entity
 base0E: "ff7b72" # color-prettylights-syntax-keyword
-base0F: "7ee787" # color-prettylights-syntax-entity-tag
+base0F: "d2a8ff" # color-prettylights-syntax-entity
