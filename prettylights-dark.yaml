@@ -15,4 +15,4 @@ base0B: "a5d6ff" # color-prettylights-syntax-string
 base0C: "a5d6ff" # color-prettylights-syntax-string
 base0D: "d2a8ff" # color-prettylights-syntax-entity
 base0E: "ff7b72" # color-prettylights-syntax-keyword
-base0F: "d2a8ff" # color-prettylights-syntax-entity
+base0F: "c9d1d9" # color-prettylights-syntax-storage-modifier-import
