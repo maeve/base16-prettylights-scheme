@@ -12,7 +12,7 @@ base08: "7ee787" # color-prettylights-syntax-entity-tag
 base09: "79c0ff" # color-prettylights-syntax-constant
 base0A: "ffa657" # color-prettylights-syntax-variable
 base0B: "a5d6ff" # color-prettylights-syntax-string
-base0C: "a5d6ff" # color-prettylights-syntax-string
+base0C: "7ee787" # color-prettylights-syntax-string-regexp
 base0D: "d2a8ff" # color-prettylights-syntax-entity
 base0E: "ff7b72" # color-prettylights-syntax-keyword
 base0F: "c9d1d9" # color-prettylights-syntax-storage-modifier-import
