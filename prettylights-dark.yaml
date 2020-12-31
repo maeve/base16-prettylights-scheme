@@ -1,8 +1,8 @@
 scheme: "Prettylights Dark"
 author: "Maeve Revels (https://github.com/maeve)"
 base00: "0d1117" # color-bg-primary
-base01: "0d1117" # color-bg-secondary
-base02: "161b22" # color-bg-tertiary
+base01: "161b22" # color-bg-tertiary
+base02: "37465D" # calculated from color-code-selection-bg rgba(121,192,255,0.3) with background base00
 base03: "8b949e" # color-prettylights-syntax-comment
 base04: "8b949e" # color-text-secondary
 base05: "c9d1d9" # color-text-primary
